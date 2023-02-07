@@ -1,6 +1,6 @@
 # Sender
 
-**TODO: Add description**
+A study project focused on concurrency and parallelism in Elixir using GenServer and GenStage. The project covers the behavior and performance of these abstractions in a concurrent and parallel environment through practical examples and exercises
 
 ## Installation
 
